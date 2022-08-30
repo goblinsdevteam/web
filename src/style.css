@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'VTCGoblinHand';
+    src: local('VTCGoblinHand'),
+         url('./fonts/vtc_goblin_hand/VTCGoblinHand.ttf') format('ttf'),
+}
+
+@font-face {
+    font-family: 'demonkiller';
+    src: local('demonkiller'),
+         url('./fonts/demon_killer/demonkiller.ttf') format('ttf'),
+}
+
+* {
+    font-family: 'VTCGoblinHand';
+}
